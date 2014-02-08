@@ -2,6 +2,7 @@
     "name": "dbisso/wp-version-check",
     "description": "Class to check for correct PHP version when bootstrapping a WordPress plugin.",
     "license": "GPL2",
+    "version": "0.1.0",
     "authors": [
         {
             "name": "Dan Bissonnet",
