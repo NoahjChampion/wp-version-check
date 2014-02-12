@@ -4,7 +4,7 @@
  *
  * PHP version checking class.
  *
- * @version 0.1.0
+ * @version 1.0.0
 */
 if ( ! class_exists( 'DBisso_Version_Check' ) ) {
 	class DBisso_Version_Check {
