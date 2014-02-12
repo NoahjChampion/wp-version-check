@@ -21,10 +21,10 @@ if ( ! class_exists( 'DBisso_Version_Check' ) ) {
 
 // Check for PHP version and then kick things off
 DBisso_Version_Check::bootstrap( '5.3.5', __FILE__, 'plugin.php' );
-
+````
 
 `DBisso_Version_Check::bootstrap()` takes three arguments:
 
 * (string) Minimum PHP version.
-* (string) The root plugin file - usually __FILE__ will do the trick.
+* (string) The root plugin file - usually `__FILE__` will do the trick.
 * (string) The initialising plugin file. This is where your plugin's main code lives.
